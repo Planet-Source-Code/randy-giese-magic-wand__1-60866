@@ -1,0 +1,38 @@
+Purpose:
+
+This is the "Magic Wand" program.
+
+Written by:  Randy Giese
+Written at:  www.RandyGrams.com
+Written on:  January 06, 2005
+Version 2:   June 14, 2006
+E-Mail me:   WebMaster@RandyGrams.com
+
+This is Version 2 of the Magic Wand program.  It is another Graphical Display program brought to you by RandyGrams.  The Wand flies around the screen bouncing off the walls.  It is constantly changing colors to create a Gradient effect of swirling and overlapping lines.  All of the effects are created using only straight lines.
+
+I have done a lot of clean-up and simplification since Version 1 but the biggest change is the ability to display the DeskTop WallPaper (see below for more details).
+
+Click the Left Mouse Button to start a new Drawing.  Click the Right Mouse Button to open the Menu. 
+
+The "Controls" section of the Menu has the "Check Box" called Show DeskTop WallPaper.  When it is checked (Default), your DeskTop WallPaper will be displayed (Full Screen).  Click it if you prefer to make the Back Ground Black. 
+
+The next option is Speed.  Click it to open the Speed control.  You can make the Wand move Faster or Slower. 
+
+The last option is Trail.  If you turn the Trail off, the Wand still flies around the screen and bounces off the walls, but it doesn't leave a Gradient Trail behind. 
+
+That's it.  Have fun and enjoy using the Magic Wand.
+
+
+Inputs:
+None.
+
+Returns:
+Great looking Gradient graphics.
+
+Side Effects:
+None.
+
+Assumptions:
+None.
+
+API's etc:
